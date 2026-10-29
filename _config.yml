@@ -20,11 +20,9 @@ author: "Estudiantes de la Universidad de Antioquia"
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre nosotros: "aboutme"
+  Artículos de estudiantes:
+    - Artículo 1: https://www.youtube.com/watch?v=QDia3e12czc
 
 ################
 # --- Logo --- #
