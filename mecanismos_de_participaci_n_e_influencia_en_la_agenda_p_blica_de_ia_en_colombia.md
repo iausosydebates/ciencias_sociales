@@ -15,9 +15,6 @@ cover-img: /assets/img/biblioteca_udea.jpg
 thumbnail-img: /assets/img/biblioteca_udea.jpg
 share-img: /assets/img/biblioteca_udea.jpg
 ---
-
-# Mecanismos de Participación e Influencia de Actores Privados en la Agenda Pública de Inteligencia Artificial en Colombia: El Caso de la Asesoría *Ad Honorem* de David Vélez (2025-2026)
-
 **Autores:** Imanol Ocampo, Laura Zapata, Cristian Londoño.
 
 ---
