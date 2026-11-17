@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Mecanismos de Participación e Influencia de Actores Privados en la Agenda Pública de Inteligencia Artificial en Colombia: El Caso de la Asesoría Ad Honorem de David Vélez (2025-2026)"
 authors:
   - Imanol Ocampo
